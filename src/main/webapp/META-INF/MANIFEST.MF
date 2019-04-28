@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Main-Class: com.definesys.dsgc.DsgcApplication
+Implementation-Title: dsgc
+Implementation-Version: 0.0.1-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: hfy
+Implementation-Vendor-Id: com.definesys
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/service-management/
+Implementation-Vendor: Pivotal Software, Inc.
+
